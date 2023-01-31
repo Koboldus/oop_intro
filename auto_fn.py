@@ -11,7 +11,7 @@ def auto_initializer(model, max_speed):
 
 bmw = auto_initializer("e46", 160)
 
-fiat = auto_initializer("tito", 200)
+fiat = auto_initializer("tipo", 240)
 
 def start_engine(car):
     if not car["engine"]:
